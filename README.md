@@ -1,0 +1,2 @@
+# rapidchan
+Go channels alternative
